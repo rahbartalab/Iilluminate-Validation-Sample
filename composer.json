@@ -1,0 +1,22 @@
+{
+  "name": "user/illuminate-validation",
+  "autoload": {
+    "psr-4": {
+      "User\\IlluminateValidation\\": "src/"
+    },
+    "files": [
+      "src/helper.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "hossein",
+      "email": "rahbartalab2002@gmail.com"
+    }
+  ],
+  "require": {
+    "illuminate/validation": "^10.21",
+    "illuminate/filesystem": "^10.21",
+    "illuminate/translation": "^10.21"
+  }
+}
