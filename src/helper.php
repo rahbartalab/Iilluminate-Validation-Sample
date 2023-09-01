@@ -4,7 +4,6 @@ use Illuminate\Validation;
 use Illuminate\Filesystem;
 use Illuminate\Translation;
 
-require_once '../vendor/autoload.php';
 
 /**
  * @param $data
